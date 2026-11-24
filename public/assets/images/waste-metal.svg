@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" fill="none">
+  <!-- Urban alley curb with metal cans and scrap metal debris -->
+  <rect width="640" height="480" fill="#E2E8F0"/>
+  <path d="M0 285 L640 255 L640 480 L0 480 Z" fill="#334155"/>
+  <path d="M0 285 L640 255 L640 278 L0 308 Z" fill="#94A3B8"/>
+  <path d="M0 155 L640 135 L640 255 L0 285 Z" fill="#CBD5E1"/>
+  <!-- Alley fence slats -->
+  <g stroke="#94A3B8" stroke-width="4" opacity="0.45">
+    <line x1="60" y1="0" x2="60" y2="152"/>
+    <line x1="140" y1="0" x2="140" y2="149"/>
+    <line x1="220" y1="0" x2="220" y2="146"/>
+    <line x1="300" y1="0" x2="300" y2="144"/>
+    <line x1="380" y1="0" x2="380" y2="141"/>
+    <line x1="460" y1="0" x2="460" y2="138"/>
+    <line x1="540" y1="0" x2="540" y2="136"/>
+  </g>
+
+  <ellipse cx="330" cy="340" rx="188" ry="42" fill="#0F172A" fill-opacity="0.38"/>
+
+  <!-- Discarded metal sheet & pipes -->
+  <path d="M178 292 L352 248 L412 318 L224 352 Z" fill="#94A3B8" stroke="#475569" stroke-width="2.5"/>
+  <path d="M214 298 L334 268 L368 308 L244 334 Z" fill="#CBD5E1" fill-opacity="0.65"/>
+  <!-- Corrugated rusted tin drum -->
+  <g transform="translate(362 242) rotate(10)">
+    <rect x="0" y="0" width="96" height="86" rx="10" fill="#B45309" fill-opacity="0.72" stroke="#78350F" stroke-width="2"/>
+    <line x1="0" y1="28" x2="96" y2="28" stroke="#78350F" stroke-width="2"/>
+    <line x1="0" y1="58" x2="96" y2="58" stroke="#78350F" stroke-width="2"/>
+  </g>
+  <!-- Aluminum beverage cans -->
+  <g transform="translate(214 316) rotate(-14)">
+    <rect x="0" y="0" width="44" height="24" rx="5" fill="#E2E8F0" stroke="#64748B" stroke-width="2"/>
+    <rect x="12" y="0" width="18" height="24" fill="#DC2626" fill-opacity="0.8"/>
+  </g>
+  <g transform="translate(292 328) rotate(8)">
+    <rect x="0" y="0" width="48" height="26" rx="5" fill="#CBD5E1" stroke="#475569" stroke-width="2"/>
+    <rect x="14" y="0" width="18" height="26" fill="#0284C7" fill-opacity="0.8"/>
+  </g>
+  <g transform="translate(425 322) rotate(-22)">
+    <rect x="0" y="0" width="42" height="22" rx="4" fill="#F1F5F9" stroke="#64748B" stroke-width="2"/>
+    <rect x="10" y="0" width="18" height="22" fill="#059669" fill-opacity="0.8"/>
+  </g>
+</svg>

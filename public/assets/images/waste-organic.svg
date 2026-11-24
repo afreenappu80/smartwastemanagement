@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" fill="none">
+  <!-- Daylight market lane curb with organic vegetable peels & cardboard -->
+  <rect width="640" height="480" fill="#E7E5E4"/>
+  <path d="M0 290 L640 250 L640 480 L0 480 Z" fill="#57534E"/>
+  <path d="M0 290 L640 250 L640 272 L0 312 Z" fill="#A8A29E"/>
+  <path d="M0 140 L640 115 L640 250 L0 290 Z" fill="#F5F5F4"/>
+  <rect x="0" y="0" width="640" height="140" fill="#ECFDF5"/>
+
+  <!-- Ground shadow -->
+  <ellipse cx="322" cy="342" rx="196" ry="44" fill="#1C1917" fill-opacity="0.32"/>
+
+  <!-- Wet cardboard produce box -->
+  <path d="M150 248 L312 222 L338 318 L178 344 Z" fill="#B45309" fill-opacity="0.82" stroke="#78350F" stroke-width="2"/>
+  <path d="M150 248 L228 210 L312 222 L238 258 Z" fill="#D97706" fill-opacity="0.78" stroke="#78350F" stroke-width="2"/>
+
+  <!-- Organic leaves & vegetable waste mound -->
+  <path d="M238 326 C248 265 322 244 398 264 C462 280 484 322 454 348 C416 376 286 374 238 326 Z" fill="#15803D"/>
+  <path d="M276 312 C292 276 355 266 410 286 C434 295 446 322 422 338 C382 356 298 348 276 312 Z" fill="#22C55E" fill-opacity="0.85"/>
+  <!-- Fruit peels & compost items -->
+  <path d="M292 330 Q320 302 354 328 Q326 346 292 330 Z" fill="#FACC15" stroke="#CA8A04" stroke-width="2"/>
+  <path d="M384 316 Q418 292 444 320 Q416 338 384 316 Z" fill="#FB923C" stroke="#C2410C" stroke-width="2"/>
+  <circle cx="356" cy="340" r="14" fill="#EF4444" stroke="#B91C1C" stroke-width="2"/>
+  <path d="M236 336 Q264 314 290 342 Q262 356 236 336 Z" fill="#84CC16" stroke="#4D7C0F" stroke-width="2"/>
+  <path d="M432 336 Q460 318 486 338 Q464 352 432 336 Z" fill="#A16207"/>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "WasteSmart — Smart Urban Waste Detection & Management",
+  "description": "AI-powered urban waste detection, citizen reporting with GPS, real-time complaint tracking, municipal worker dispatch, and sustainability analytics.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

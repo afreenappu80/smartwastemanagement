@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="fav-leaf" x1="18" y1="16" x2="46" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#A7F3D0"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#064E3B"/>
+  <path d="M22.5 14.5C28.4 11.7 35.4 11.8 41.2 14.8C45.3 17.0 48.4 20.5 50.1 24.7" stroke="#A7F3D0" stroke-width="3.8" stroke-linecap="round"/>
+  <path d="M52.0 19.3L50.8 26.5L44.0 23.6" stroke="#A7F3D0" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M49.9 37.5C48.5 43.1 44.8 47.9 39.6 50.6C35.1 52.9 29.8 53.4 24.9 51.9" stroke="#34D399" stroke-width="3.8" stroke-linecap="round"/>
+  <path d="M29.6 55.6L23.2 51.3L28.0 46.0" stroke="#34D399" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M15.6 45.1C12.4 40.2 11.2 34.1 12.5 28.2C13.5 23.6 16.0 19.5 19.7 16.6" stroke="#10B981" stroke-width="3.8" stroke-linecap="round"/>
+  <path d="M13.8 15.6L21.1 15.7L19.3 22.9" stroke="#10B981" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M39.8 23.6C32.6 23.6 26.4 27.4 25.2 35.2C24.9 37.7 25.7 39.8 27.6 40.9C32.4 42.1 38.8 39.1 39.9 31.4C40.3 28.6 40.2 26.0 39.8 23.6Z" fill="url(#fav-leaf)"/>
+  <path d="M26.4 41.2C29.4 35.9 33.3 31.6 38.1 27.9" stroke="#064E3B" stroke-width="2" stroke-linecap="round"/>
+</svg>
